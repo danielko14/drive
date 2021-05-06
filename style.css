@@ -8,6 +8,7 @@ body {
   font-family: sans-serif;
   overflow: hidden;
   background: black;
+  background-image: url("./NightSky.jpeg");
 }
 
 .scene,

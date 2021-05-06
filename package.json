@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/danielko14/drive/issues"
   },
-  "homepage": "https://github.com/danielko14/drive#readme"
+  "homepage": "https://github.com/danielko14/drive#readme",
+  "dependencies": {}
 }
